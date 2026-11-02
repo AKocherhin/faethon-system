@@ -70,3 +70,6 @@ miscelanious/gfix.exe
 miscelanious/migration-plan-for-ai.md
 miscelanious/syskey
 miscelanious/Путь.txt
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
