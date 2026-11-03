@@ -55,21 +55,7 @@ backups/
 
 # Locally generated release manifests and SBOM/security evidence.
 release-artifacts/
-miscelanious/BUY.GDB
-miscelanious/buyhlp.chm
-miscelanious/Buysell.exe
-miscelanious/Del54.MB
-miscelanious/Del139.MB
-miscelanious/Del366.MB
-miscelanious/Del367.MB
-miscelanious/Del872.MB
-miscelanious/Del890.MB
-miscelanious/FUNSTART.BAT
-miscelanious/gbak.exe
-miscelanious/gfix.exe
-miscelanious/migration-plan-for-ai.md
-miscelanious/syskey
-miscelanious/Путь.txt
+miscelanious/
 
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
